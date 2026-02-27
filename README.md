@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mahesh Kumar
 
-### 🔬Research & Technical Professional (Former IITGN & BEL)
+### 🔬 Research & Technical Professional (Former IITGN & BEL)
 Technical Assistant with over 2 years of experience at **IIT Gandhinagar** and **Bharat Electronics Limited (BEL)**. I specialize in **AI/ML data curation**, **multilingual NLP**, and **Cloud Infrastructure**.
 
 ---
