@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Mahesh Kumar
 
-### 🔬 Research & Technical Professional (Former IITGN & BEL)
-Technical Assistant with over 2 years of experience at **IIT Gandhinagar** and **Bharat Electronics Limited (BEL)**. I specialize in **AI/ML data curation**, **multilingual NLP**, and **Cloud Infrastructure**.
+### 🔬 Research & Technical Professional
+Former Technical Assistant with over 2 years of experience at **IIT Gandhinagar** and **Bharat Electronics Limited (BEL)**. I specialize in **AI/ML data curation**, **multilingual NLP**, and **Cloud Infrastructure**.
 
 ---
 
 ### 🚀 What I'm Working On
 * 🧪 **LLM Data Strategy**: Collaborated at IITGN to develop the world's largest public labeled Hinglish dataset for training Large Language Models.
 * ☁️ **Cloud Architecture**: Deploying scalable web solutions on **AWS** (Check my live projects below!).
-* 🛠️ **NLP Benchmarking**: Constructing high-accuracy benchmarks for low-level multilingual NLP tasks.
+* 🛠️ **NLP Benchmarking**: Constructing high-accuracy benchmarks for multilingual NLP tasks.
 * 🔧 **Enterprise IT**: Expertise in VDI deployment and managed system maintenance at scale.
 
 ---
@@ -18,7 +18,7 @@ Technical Assistant with over 2 years of experience at **IIT Gandhinagar** and *
 | :--- | :--- |
 | **Languages** | Python, C++, SQL, JavaScript, HTML/CSS |
 | **Cloud** | AWS (EC2, IAM, Security Groups, VPC Management) |
-| **Specialized** | COMMENTATOR (NLP), VDI Installation, OS Deployment |
+| **Specialized** | COMMENTATOR (NLP), Android Studio, VDI Installation |
 
 ---
 
@@ -29,4 +29,4 @@ Technical Assistant with over 2 years of experience at **IIT Gandhinagar** and *
 
 ### 📫 Connect with me
 - 📧 [maheshkr.cs@gmail.com](mailto:maheshkr.cs@gmail.com)
-- 🔗 [LinkedIn Profile](https://linkedin.com/in/maheshkrcs)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/maheshkrcs)
