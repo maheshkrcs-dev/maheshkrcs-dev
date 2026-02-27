@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Mahesh Kumar
 
-### 🔬 Research & Technical Professional
+### 🔬Research & Technical Professional (Former IITGN & BEL)
 Technical Assistant with over 2 years of experience at **IIT Gandhinagar** and **Bharat Electronics Limited (BEL)**. I specialize in **AI/ML data curation**, **multilingual NLP**, and **Cloud Infrastructure**.
 
 ---
 
 ### 🚀 What I'm Working On
-* 🧪 **LLM Data Strategy**: Collaborating at IITGN to develop the world's largest public labeled Hinglish dataset for training Large Language Models.
+* 🧪 **LLM Data Strategy**: Collaborated at IITGN to develop the world's largest public labeled Hinglish dataset for training Large Language Models.
 * ☁️ **Cloud Architecture**: Deploying scalable web solutions on **AWS** (Check my live projects below!).
 * 🛠️ **NLP Benchmarking**: Constructing high-accuracy benchmarks for low-level multilingual NLP tasks.
 * 🔧 **Enterprise IT**: Expertise in VDI deployment and managed system maintenance at scale.
