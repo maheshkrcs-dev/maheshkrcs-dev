@@ -27,6 +27,13 @@ Former Technical Assistant with over 2 years of experience at **IIT Gandhinagar*
 
 ---
 
+### 🔬 Featured Research: Hinglish Code-Mixed NLP
+During my tenure as a **Technical Assistant at IIT Gandhinagar**, I contributed to the development of high-quality benchmarks for Hinglish (Hindi-English) code-mixed text.
+
+* **Project Scope:** Building datasets for sequence labeling (POS tagging, NER) and translations to make LLMs understand conversational multilingual text.
+* **Key Contribution:** Curated and annotated multi-sentential Hindi-English datasets using sources like government press releases and Hindi news articles.
+* **Tools Used:** Utilized the **COMMENTATOR** annotation framework for efficient data labeling.
+
 ### 📫 Connect with me
 - 📧 [maheshkr.cs@gmail.com](mailto:maheshkr.cs@gmail.com)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/maheshkrcs)
