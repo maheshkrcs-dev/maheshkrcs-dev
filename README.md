@@ -37,3 +37,4 @@ During my tenure as a **Technical Assistant at IIT Gandhinagar**, I contributed 
 ### 📫 Connect with me
 - 📧 [maheshkr.cs@gmail.com](mailto:maheshkr.cs@gmail.com)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/maheshkrcs)
+- 🤗 [Hugging Face](https://huggingface.co/maheshkrcs)
