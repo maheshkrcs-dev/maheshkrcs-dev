@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahesh Kumar</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+        body { 
+            font-family: 'Inter', sans-serif; 
+            line-height: 1.65;
+        }
+        .hero-bg { 
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%); 
+        }
+        .card { 
+            transition: transform 0.25s ease, box-shadow 0.25s ease; 
+        }
+        .card:hover { 
+            transform: translateY(-6px); 
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.12); 
+        }
+        .about-text {
+            max-width: 65ch;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: justify;
+        }
+        img.rounded-profile {
+            object-fit: contain;
+            background: #111827;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body class="bg-zinc-950 text-white">
+
+    <!-- HERO -->
+    <section class="hero-bg min-h-screen flex items-center">
+        <div class="max-w-4xl mx-auto px-6 text-center">
+            <img src="profile.jpg" alt="Mahesh Kumar"
+                 class="w-64 h-64 md:w-80 md:h-80 mx-auto rounded-full object-contain rounded-profile shadow-2xl mb-10">
+
+            <h1 class="text-6xl md:text-7xl font-bold tracking-tight">Mahesh Kumar</h1>
+            <p class="text-2xl text-cyan-200 mt-3">AI/ML Data Curator & Enterprise IT Engineer</p>
+
+            <p class="max-w-lg mx-auto mt-8 text-lg text-zinc-400">
+                Built the world's largest public labeled Hinglish dataset (125K+ instances) at IIT Gandhinagar. 
+                Passionate about multilingual NLP and reliable enterprise systems.
+            </p>
+
+            <div class="mt-12 flex flex-wrap gap-4 justify-center">
+                <a href="#projects" 
+                   class="px-10 py-4 bg-cyan-400 text-black font-semibold rounded-3xl hover:bg-cyan-300 transition">
+                    View My Projects
+                </a>
+                <a href="Resume_Mahesh.pdf" download 
+                   class="px-10 py-4 border border-white/50 hover:border-white font-medium rounded-3xl transition">
+                    Download Resume
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="py-20 bg-zinc-950">
+        <div class="max-w-4xl mx-auto px-6">
+            <h2 class="text-4xl font-semibold mb-8 text-center">About Me</h2>
+            <p class="text-lg text-zinc-300 about-text">
+                Former Technical Assistant with 2+ years of hands-on experience at  <span class="text-cyan-400">IIT Gandhinagar</span> and 
+                <span class="text-cyan-400">Bharat Electronics Limited (BEL)</span>. I specialize in multilingual NLP data curation, 
+                large-scale dataset annotation, and enterprise-grade IT infrastructure. 
+                During my tenure at the <a href="https://lingo.iitgn.ac.in/codemixing/" target="_blank" class="text-cyan-400 hover:text-white transition-colors">LINGO Research Group</a>, 
+                I worked under the guidance of <a href="https://mayank4490.github.io/" target="_blank" class="text-cyan-400 hover:text-white transition-colors">Prof. Mayank Singh</a> 
+                and closely collaborated with <a href="https://rajveesheth.github.io/" target="_blank" class="text-cyan-400 hover:text-white transition-colors">Rajvee Sheth</a>.
+                My work involved curating and annotating Hindi-English code-mixed datasets and supporting the development of large-scale benchmarks for multilingual NLP and LLM training.
+            </p>
+        </div>
+    </section>
+
+    <!-- EXPERIENCE -->
+    <section id="experience" class="py-20 bg-zinc-950">
+        <div class="max-w-4xl mx-auto px-6">
+            <h2 class="text-4xl font-semibold mb-10 text-center">Experience</h2>
+            <div class="space-y-12">
+                <div class="card bg-zinc-900 p-8 rounded-3xl">
+                    <div class="flex justify-between items-start">
+                        <div>
+                            <h3 class="text-2xl font-semibold">Technical Assistant</h3>
+                            <p class="text-cyan-400">IIT Gandhinagar • LINGO Research Group</p>
+                        </div>
+                        <p class="text-sm text-zinc-400">Jun 2024 – Feb 2026</p>
+                    </div>
+                    <ul class="mt-6 space-y-3 text-zinc-300">
+                        <li>• Collaborated on the world's largest public Hinglish dataset for LLM training</li>
+                        <li>• High-precision annotation using COMMENTATOR tool</li>
+                        <li>• Created benchmarks for code-mixed Hindi-English NLP</li>
+                    </ul>
+                </div>
+
+                <div class="card bg-zinc-900 p-8 rounded-3xl">
+                    <div class="flex justify-between items-start">
+                        <div>
+                            <h3 class="text-2xl font-semibold">TAPP Trainee</h3>
+                            <p class="text-cyan-400">Bharat Electronics Limited, Bangalore</p>
+                        </div>
+                        <p class="text-sm text-zinc-400">Mar 2022 – Mar 2023</p>
+                    </div>
+                    <ul class="mt-6 space-y-3 text-zinc-300">
+                        <li>• Deployed enterprise VDI & data backup systems</li>
+                        <li>• Managed hardware troubleshooting & network peripherals</li>
+                        <li>• Achieved 99.9% system uptime</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="py-20 bg-zinc-950">
+        <div class="max-w-4xl mx-auto px-6">
+            <h2 class="text-4xl font-semibold mb-10 text-center">Projects</h2>
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="card bg-zinc-900 p-8 rounded-3xl">
+                    <h3 class="text-2xl font-semibold">COMI-LINGUA Hinglish Dataset</h3>
+                    <p class="mt-4 text-zinc-300">Contributed to the world's largest public labeled Hindi-English code-mixed dataset. Used COMMENTATOR tool for granular annotation.</p>
+                </div>
+                <div class="card bg-zinc-900 p-8 rounded-3xl">
+                    <h3 class="text-2xl font-semibold">Secure Android Login UI</h3>
+                    <p class="mt-4 text-zinc-300">Designed secure authentication interfaces in Android Studio using XML + Java.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SKILLS -->
+    <section id="skills" class="py-20 bg-zinc-950">
+        <div class="max-w-4xl mx-auto px-6">
+            <h2 class="text-4xl font-semibold mb-10 text-center">Skills</h2>
+            <div class="flex flex-wrap gap-3 justify-center">
+                <span class="bg-zinc-900 text-white px-6 py-3 rounded-3xl">C / C++</span>
+                <span class="bg-zinc-900 text-white px-6 py-3 rounded-3xl">Python</span>
+                <span class="bg-zinc-900 text-white px-6 py-3 rounded-3xl">SQL</span>
+                <span class="bg-zinc-900 text-white px-6 py-3 rounded-3xl">Android Studio</span>
+                <span class="bg-zinc-900 text-white px-6 py-3 rounded-3xl">COMMENTATOR</span>
+                <span class="bg-zinc-900 text-white px-6 py-3 rounded-3xl">AWS</span>
+                <span class="bg-zinc-900 text-white px-6 py-3 rounded-3xl">VDI Deployment</span>
+                <span class="bg-zinc-900 text-white px-6 py-3 rounded-3xl">Git</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- EDUCATION -->
+    <section id="education" class="py-20 bg-zinc-950">
+        <div class="max-w-4xl mx-auto px-6">
+            <h2 class="text-4xl font-semibold mb-10 text-center">Education</h2>
+            <div class="grid md:grid-cols-3 gap-6">
+                <div class="bg-zinc-900 p-8 rounded-3xl text-center">
+                    <h3 class="font-semibold">Diploma in Computer Science</h3>
+                    <p class="text-cyan-400">New Government Polytechnic Patna-13</p>
+                    <p class="mt-2">79.11% • 2020</p>
+                </div>
+                <div class="bg-zinc-900 p-8 rounded-3xl text-center">
+                    <h3 class="font-semibold">Class 12 (PCM)</h3>
+                    <p class="text-cyan-400">Hellens School Rajopatti</p>
+                    <p class="mt-2">56.6% • 2016</p>
+                </div>
+                <div class="bg-zinc-900 p-8 rounded-3xl text-center">
+                    <h3 class="font-semibold">Class 10</h3>
+                    <p class="text-cyan-400">Doon Senior Secondary School</p>
+                    <p class="mt-2">8.8 CGPA • 2014</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- GET IN TOUCH -->
+    <section id="contact" class="py-20 bg-zinc-950">
+        <div class="max-w-3xl mx-auto px-6 text-center">
+            <h2 class="text-5xl font-semibold text-cyan-300 mb-4">Get In Touch</h2>
+            <p class="text-xl text-zinc-400 max-w-md mx-auto mb-12">
+                Whether you want to collaborate on a project, have a question, or just want to say hi, feel free to reach out!
+            </p>
+            <form id="contact-form" action="https://formspree.io/f/mreylybn" method="POST" class="space-y-6 max-w-md mx-auto">
+              <div>
+               <label class="block text-left text-sm text-zinc-400 mb-2">Name or Nickname</label>
+               <input type="text" name="name" placeholder="Your name or nickname" 
+               class="w-full bg-[#1e2937] border border-zinc-700 rounded-xl px-6 py-4 text-white focus:outline-none focus:border-cyan-400" required>
+              </div>
+              <div>
+               <label class="block text-left text-sm text-zinc-400 mb-2">Email</label>
+               <input type="email" name="email" placeholder="you@example.com" 
+               class="w-full bg-[#1e2937] border border-zinc-700 rounded-xl px-6 py-4 text-white focus:outline-none focus:border-cyan-400" required>
+             </div>
+             <div>
+              <label class="block text-left text-sm text-zinc-400 mb-2">Message</label>
+              <textarea name="message" rows="5" placeholder="Write your message here..." 
+                  class="w-full bg-[#1e2937] border border-zinc-700 rounded-xl px-6 py-4 text-white focus:outline-none focus:border-cyan-400" required></textarea>
+             </div>
+              <!-- Hidden fields (helps you see who sent it) -->
+               <input type="hidden" name="_subject" value="New message from Portfolio">
+               <input type="hidden" name="_replyto" value="{{email}}">
+
+               <button type="submit"
+                class="w-full bg-[#6366f1] hover:bg-[#4f46e5] text-white font-semibold py-4 rounded-2xl transition-all">
+                Send Message
+               </button>
+            </form>
+            <div class="flex justify-center gap-8 mt-12 text-3xl">
+             <a href="https://linkedin.com/in/maheshkrcs" target="_blank" class="text-zinc-400 hover:text-cyan-400 transition"><i class="fab fa-linkedin"></i></a>
+             <a href="https://github.com/maheshkrcs-dev" target="_blank" class="text-zinc-400 hover:text-cyan-400 transition"><i class="fab fa-github"></i></a>
+             <a href="https://huggingface.co/maheshkrcs" target="_blank" class="text-zinc-400 hover:text-cyan-400 transition"><span class="text-3xl">🐸</span> </a>
+             <a href="mailto:maheshkr.cs@gmail.com" class="text-zinc-400 hover:text-cyan-400 transition"><i class="fas fa-envelope"></i></a>
+           </div>
+        </div>
+    </section>
+
+    <footer class="py-10 text-center text-zinc-500 text-sm bg-zinc-950">
+        © 2026 Mahesh Kumar
+    </footer>
+
+    <script>
+        // Form submit animation
+        document.getElementById('contact-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const btn = this.querySelector('button');
+            const originalText = btn.textContent;
+            btn.textContent = 'Message Sent ✓';
+            btn.style.backgroundColor = '#22c55e';
+           
+            setTimeout(() => {
+                btn.textContent = originalText;
+                btn.style.backgroundColor = '#6366f1';
+                this.reset();
+            }, 2500);
+        });
+    </script>
+</body>
+</html>
