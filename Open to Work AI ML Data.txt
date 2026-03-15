@@ -1,0 +1,19 @@
+Open to Work | AI/ML Data Annotation & Curation | Enterprise IT
+
+After contributing to one of the world's largest public labeled Hindi-English (Hinglish) code-mixed datasets (125K+ instances) at IIT Gandhinagar under Prof. Mayank Singh, I'm now looking for full-time opportunities in AI/ML data roles or enterprise IT infrastructure.
+
+What I bring:
+• Hands-on large-scale data annotation & curation using COMMENTATOR tool
+• Experience building benchmarks for multilingual NLP and LLM training
+• Enterprise IT background: VDI deployment, system maintenance, hardware/OS troubleshooting, 99.9% uptime operations (Bharat Electronics Limited)
+• Strong foundation in Python, C/C++, Android Studio, AWS, Git
+
+Open to roles in:
+- AI/ML Data Annotation & Curation
+- Multilingual NLP / LLM Research Support
+- Enterprise IT / Cloud Infrastructure
+- Hybrid or remote (Gandhinagar / Pan-India preferred)
+
+If you're working on multilingual LLMs, code-mixed data, or scalable IT systems — let's connect!
+
+#OpenToWork #DataAnnotation #MultilingualNLP #LLM #AI #EnterpriseIT #Hinglish #IITGandhinagar
