@@ -41,7 +41,7 @@ A complete web application for buying and selling old books.
 - Implemented volume mapping for persistent storage  
 - Performed database migration using SQL dump  
 
-🔗 Repository: (Add your repo link here)
+🔗 Repository: https://github.com/maheshkrcs-dev/oldbook-docker
 
 ---
 
@@ -115,7 +115,7 @@ Data Annotation, Dataset Curation, Code-Mixed NLP
 
 📧 Email: maheshkr.cs@gmail.com  
 🔗 GitHub: https://github.com/maheshkrcs-dev  
-🔗 LinkedIn: (Add your link)
+🔗 LinkedIn: https://www.linkedin.com/in/maheshkrcs
 
 ---
 
