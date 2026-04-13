@@ -1,40 +1,124 @@
-# Hi there! 👋 I'm Mahesh Kumar
+# Hi there 👋 I'm Mahesh Kumar
 
-### 🔬 Research & Technical Professional
-Former Technical Assistant with over 2 years of experience at **IIT Gandhinagar** and **Bharat Electronics Limited (BEL)**. I specialize in **AI/ML data curation**, **multilingual NLP**, and **Cloud Infrastructure**.
-
----
-
-### 🚀 What I'm Working On
-* 🧪 **LLM Data Strategy**: Collaborated at IITGN to develop the world's largest public labeled Hinglish dataset for training Large Language Models.
-* ☁️ **Cloud Architecture**: Deploying scalable web solutions on **AWS** (Check my live projects below!).
-* 🛠️ **NLP Benchmarking**: Constructing high-accuracy benchmarks for multilingual NLP tasks.
-* 🔧 **Enterprise IT**: Expertise in VDI deployment and managed system maintenance at scale.
+💻 Full Stack Web Developer | 🐳 Docker Enthusiast | 🛠 IT Systems Specialist | 🤖 NLP Data Contributor  
 
 ---
 
-### 🛠️ Technical Stack
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | Python, C++, SQL, JavaScript, HTML/CSS |
-| **Cloud** | AWS (EC2, IAM, Security Groups, VPC Management) |
-| **Specialized** | COMMENTATOR (NLP), Android Studio, VDI Installation |
+## 👨‍💻 About Me
+
+I am a hands-on technical professional with experience in web development, system administration, and large-scale data annotation.
+
+I have built and deployed real-world applications using PHP, MySQL, and Docker, and also contributed to multilingual NLP datasets at IIT Gandhinagar.
+
+🔹 Strong in backend development and database design  
+🔹 Experience with Docker, Linux, and system troubleshooting  
+🔹 Background in NLP data curation and enterprise IT systems  
 
 ---
 
-### 🌐 Featured Projects
-* 📦 **[AWS Static Web Hosting](https://github.com/maheshkrcs-dev/aws-static-web-hosting)**: Live server deployment on Amazon Linux 2023.
+## 🚀 Featured Project
+
+### 📚 OldBook Exchange Platform (Dockerized Full Stack Project)
+
+A complete web application for buying and selling old books.
+
+**Tech Stack:**
+- Frontend: HTML, CSS, JavaScript  
+- Backend: PHP  
+- Database: MySQL  
+- DevOps: Docker, Docker Compose  
+
+**Key Features:**
+- 🔐 User Authentication (Login/Signup with sessions)
+- 📦 Book listing and management  
+- 💬 Messaging system  
+- ❤️ Wishlist functionality  
+- 🔍 Search functionality  
+
+**Deployment Highlights:**
+- Containerized using Docker (Apache + PHP + MySQL + phpMyAdmin)  
+- Configured service communication using Docker Compose  
+- Implemented volume mapping for persistent storage  
+- Performed database migration using SQL dump  
+
+🔗 Repository: (Add your repo link here)
 
 ---
 
-### 🔬 Featured Research: Hinglish Code-Mixed NLP
-During my tenure as a **Technical Assistant at IIT Gandhinagar**, I contributed to the development of high-quality benchmarks for Hinglish (Hindi-English) code-mixed text.
+## 🧠 Research & Data Annotation Experience
 
-* **Project Scope:** Building datasets for sequence labeling (POS tagging, NER) and translations to make LLMs understand conversational multilingual text.
-* **Key Contribution:** Curated and annotated multi-sentential Hindi-English datasets using sources like government press releases and Hindi news articles.
-* **Tools Used:** Utilized the **COMMENTATOR** annotation framework for efficient data labeling.
+### 🏢 IIT Gandhinagar
 
-### 📫 Connect with me
-- 📧 [maheshkr.cs@gmail.com](mailto:maheshkr.cs@gmail.com)
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/maheshkrcs)
-- 🤗 [Hugging Face](https://huggingface.co/maheshkrcs)
+- Contributed to large-scale Hinglish (Hindi-English) dataset development  
+- Annotated 50,000+ data instances across NLP tasks:
+  - Language Identification (LID)  
+  - POS Tagging  
+  - Named Entity Recognition (NER)  
+  - Machine Translation  
+- Maintained high annotation quality with strong inter-annotator agreement  
+- Worked in multi-annotator pipelines for LLM benchmarking  
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Bharat Electronics Limited (BEL)
+
+- Managed Virtual Desktop Infrastructure (VDI) for enterprise users  
+- Installed and configured Windows/Linux systems  
+- Performed hardware diagnostics and OS troubleshooting  
+- Configured network devices (LAN, printers, scanners)  
+- Managed system upgrades and data backup  
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://maheshkrcs-dev.github.io/
+
+---
+
+## 🛠 Technical Skills
+
+**Programming Languages:**  
+PHP, Python, C, JavaScript  
+
+**Frontend:**  
+HTML, CSS, Responsive Design  
+
+**Backend:**  
+Core PHP  
+
+**Database:**  
+MySQL (CRUD, relational design)  
+
+**DevOps & Tools:**  
+Docker, Docker Compose, Git, GitHub, phpMyAdmin  
+
+**Systems & IT:**  
+Linux, OS Installation, VDI, Hardware Troubleshooting  
+
+**AI/NLP:**  
+Data Annotation, Dataset Curation, Code-Mixed NLP  
+
+---
+
+## 📈 What I'm Currently Learning
+
+- Advanced Backend Development  
+- Docker & Deployment Best Practices  
+- System Design Fundamentals  
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: maheshkr.cs@gmail.com  
+🔗 GitHub: https://github.com/maheshkrcs-dev  
+🔗 LinkedIn: (Add your link)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving real-world technical problems — from debugging systems to deploying full applications 🚀
