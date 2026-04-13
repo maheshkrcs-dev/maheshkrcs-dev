@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mahesh Kumar
 
-💻 Full Stack Web Developer | 🐳 Docker Enthusiast | 🛠 IT Systems Specialist | 🤖 NLP Data Contributor  
+💻 Full Stack Web Developer | 🐳 Docker Enthusiast | 🛠 IT Systems Specialist | 🤖 NLP Data Annotator
 
 ---
 
