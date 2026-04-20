@@ -86,31 +86,6 @@ I have worked at IIT Gandhinagar and Bharat Electronics Limited (BEL), where I h
 
 ---
 
-## 📈 Currently Learning
-
-- Advanced IT Troubleshooting Scenarios  
-- Networking Fundamentals (TCP/IP, DNS, DHCP)  
-- Windows & Linux System Administration  
-
----
-
-## 📫 Connect With Me
-
-📧 Email: maheshkr.cs@gmail.com  
-🌐 Portfolio: https://maheshkrcs-dev.github.io  
-🔗 LinkedIn: https://linkedin.com/in/maheshkrcs  
-
----
-
-## ⚡ Fun Fact
-
-I enjoy solving real-world technical problems — from fixing system issues to managing IT environments 🚀---
-
-## 🌐 Portfolio
-
-🔗 https://maheshkrcs-dev.github.io/
-
----
 
 ## 🛠 Technical Skills
 
@@ -137,11 +112,18 @@ Data Annotation, Dataset Curation, Code-Mixed NLP
 
 ---
 
-## 📈 What I'm Currently Learning
+## 📈 Currently Learning
 
-- Advanced Backend Development  
-- Docker & Deployment Best Practices  
-- System Design Fundamentals  
+- Advanced IT Troubleshooting Scenarios  
+- Networking Fundamentals (TCP/IP, DNS, DHCP)  
+- Windows & Linux System Administration  
+
+---
+
+
+## 🌐 Portfolio
+
+🔗 https://maheshkrcs-dev.github.io/
 
 ---
 
@@ -155,4 +137,5 @@ Data Annotation, Dataset Curation, Code-Mixed NLP
 
 ## ⚡ Fun Fact
 
-I enjoy solving real-world technical problems — from debugging systems to deploying full applications 🚀
+I enjoy solving real-world technical problems — from fixing system issues to managing IT environments 🚀---
+
