@@ -87,8 +87,6 @@ I have worked at IIT Gandhinagar and Bharat Electronics Limited (BEL), where I h
 ---
 
 
-## 🛠 Technical Skills
-
 **Programming Languages:**  
 PHP, Python, C, JavaScript  
 
