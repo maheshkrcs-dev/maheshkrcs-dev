@@ -1,76 +1,110 @@
-# Hi there 👋 I'm Mahesh Kumar
+# 👋 Hi, I'm Mahesh Kumar
 
-💻 Full Stack Web Developer | 🐳 Docker | 🛠 IT Systems Specialist | 🤖 NLP Data Annotator
+💻 IT Support Engineer | Desktop Support | System & Network Troubleshooting  
+🛠️ Windows | Linux | VDI | Hardware & Software Support  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a hands-on technical professional with experience in web development, system administration, and large-scale data annotation.
+I am an IT Support Engineer with 2+ years of hands-on experience in system troubleshooting, OS installation, and network support in enterprise environments.
 
-I have built and deployed real-world applications using PHP, MySQL, and Docker, and also contributed to multilingual NLP datasets at IIT Gandhinagar.
+I have worked at IIT Gandhinagar and Bharat Electronics Limited (BEL), where I handled real-world IT infrastructure issues including Linux systems, VDI environments, and hardware/software troubleshooting.
 
-🔹 Strong in backend development and database design  
-🔹 Experience with Docker, Linux, and system troubleshooting  
-🔹 Background in NLP data curation and enterprise IT systems  
-
----
-
-## 🚀 Featured Project
-
-### 📚 OldBook Exchange Platform (Dockerized Full Stack Project)
-
-A complete web application for buying and selling old books.
-
-**Tech Stack:**
-- Frontend: HTML, CSS, JavaScript  
-- Backend: PHP  
-- Database: MySQL  
-- DevOps: Docker, Docker Compose  
-
-**Key Features:**
-- 🔐 User Authentication (Login/Signup with sessions)
-- 📦 Book listing and management  
-- 💬 Messaging system  
-- ❤️ Wishlist functionality  
-- 🔍 Search functionality  
-
-**Deployment Highlights:**
-- Containerized using Docker (Apache + PHP + MySQL + phpMyAdmin)  
-- Configured service communication using Docker Compose  
-- Implemented volume mapping for persistent storage  
-- Performed database migration using SQL dump  
-
-🔗 Repository: https://github.com/maheshkrcs-dev/oldbook-docker
+🔹 Strong in diagnosing and resolving system issues  
+🔹 Experience with Windows, Linux, networking, and remote support  
+🔹 Hands-on approach to solving real-world technical problems  
 
 ---
 
-## 🧠 Research & Data Annotation Experience
+## 🧪 IT SUPPORT HOME LAB
 
-### 🏢 IIT Gandhinagar
+🔗 https://github.com/maheshkrcs-dev/home-lab
 
-- Contributed to large-scale Hinglish (Hindi-English) dataset development  
-- Annotated 50,000+ data instances across NLP tasks:
-  - Language Identification (LID)  
-  - POS Tagging  
-  - Named Entity Recognition (NER)  
-  - Machine Translation  
-- Maintained high annotation quality with strong inter-annotator agreement  
-- Worked in multi-annotator pipelines for LLM benchmarking  
+✔ Installed Windows & Ubuntu in Virtual Machines  
+✔ Practiced OS installation and recovery  
+✔ Configured IP, DNS, and network settings  
+✔ Troubleshooted system and network issues  
+✔ Simulated real-world IT support scenarios  
+
+💡 This project demonstrates practical IT support skills used in real environments.
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Bharat Electronics Limited (BEL)
+### 🏢 IIT Gandhinagar
+- Worked on large-scale data systems and Linux environments  
+- Handled technical issues during workflows and ensured smooth operations  
+- Collaborated with teams for efficient use of systems and tools  
+- Gained hands-on exposure to system troubleshooting and infrastructure  
 
+### 🏢 Bharat Electronics Limited (BEL)
 - Managed Virtual Desktop Infrastructure (VDI) for enterprise users  
-- Installed and configured Windows/Linux systems  
+- Installed and configured Windows & Linux systems  
 - Performed hardware diagnostics and OS troubleshooting  
-- Configured network devices (LAN, printers, scanners)  
-- Managed system upgrades and data backup  
+- Configured LAN, printers, scanners, and peripherals  
+- Provided remote and on-site technical support  
 
 ---
+
+## 🚀 Projects
+
+### 🔹 OldBook Exchange Platform (Dockerized Full Stack Project)
+🔗 https://github.com/maheshkrcs-dev/oldbook-docker
+
+✔ Full-stack web application for buying & selling books  
+✔ Containerized using Docker (Apache + PHP + MySQL)  
+✔ Implemented service communication using Docker Compose  
+✔ Performed database migration and volume mapping  
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 IT Support
+- Desktop Support  
+- System Troubleshooting  
+- Remote Support  
+- Hardware Troubleshooting  
+
+### 🖥️ Operating Systems
+- Windows  
+- Linux (Ubuntu)  
+
+### 🌐 Networking
+- LAN Setup  
+- IP Configuration  
+- Network Troubleshooting  
+
+### 🧰 Tools & Technologies
+- Active Directory (Basic)  
+- VDI  
+- Git & GitHub  
+- Docker (Basic)  
+- VS Code  
+
+---
+
+## 📈 Currently Learning
+
+- Advanced IT Troubleshooting Scenarios  
+- Networking Fundamentals (TCP/IP, DNS, DHCP)  
+- Windows & Linux System Administration  
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: maheshkr.cs@gmail.com  
+🌐 Portfolio: https://maheshkrcs-dev.github.io  
+🔗 LinkedIn: https://linkedin.com/in/maheshkrcs  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving real-world technical problems — from fixing system issues to managing IT environments 🚀---
 
 ## 🌐 Portfolio
 
