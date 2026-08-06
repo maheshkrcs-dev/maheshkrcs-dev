@@ -1,139 +1,211 @@
 # 👋 Hi, I'm Mahesh Kumar
 
-💻 IT Support Engineer | Desktop Support | System & Network Troubleshooting  
-🛠️ Windows | Linux | VDI | Hardware & Software Support  
+### 💼 Engineer – Infrastructure Services @ Neurealm
+
+IT Infrastructure | Desktop Support | End-User Computing | Microsoft 365 | Windows | Networking | Asset Management
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am an IT Support Engineer with 2+ years of hands-on experience in system troubleshooting, OS installation, and network support in enterprise environments.
+I am an **Engineer – Infrastructure Services at Neurealm**, providing IT support and infrastructure services at a client location. I work on end-user computing, desktop support, laptop deployment, asset management, ticket resolution, and day-to-day IT operations.
 
-I have worked at IIT Gandhinagar and Bharat Electronics Limited (BEL), where I handled real-world IT infrastructure issues including Linux systems, VDI environments, and hardware/software troubleshooting.
+With experience across enterprise environments, I enjoy troubleshooting technical issues, improving IT processes, and delivering reliable support to end users.
 
-🔹 Strong in diagnosing and resolving system issues  
-🔹 Experience with Windows, Linux, networking, and remote support  
-🔹 Hands-on approach to solving real-world technical problems  
+I'm continuously expanding my knowledge in:
 
----
+- Microsoft 365 Administration
+- Active Directory
+- Windows Administration
+- Networking (TCP/IP, DNS, DHCP)
+- Azure Fundamentals
+- IT Infrastructure & Cloud Technologies
 
-## 🧪 IT SUPPORT HOME LAB
-
-🔗 https://github.com/maheshkrcs-dev/home-lab
-
-✔ Installed Windows & Ubuntu in Virtual Machines  
-✔ Practiced OS installation and recovery  
-✔ Configured IP, DNS, and network settings  
-✔ Troubleshooted system and network issues  
-✔ Simulated real-world IT support scenarios  
-
-💡 This project demonstrates practical IT support skills used in real environments.
+My goal is to build a strong career in **Enterprise IT Infrastructure, Microsoft 365, System Administration, and Cloud Technologies.**
 
 ---
 
-## 💼 Professional Experience
+# 🧪 IT Support Home Lab
 
-### 🏢 IIT Gandhinagar
-- Worked on large-scale data systems and Linux environments  
-- Handled technical issues during workflows and ensured smooth operations  
-- Collaborated with teams for efficient use of systems and tools  
-- Gained hands-on exposure to system troubleshooting and infrastructure  
+🔗 **Repository:**  
+https://github.com/maheshkrcs-dev/home-lab
 
-### 🏢 Bharat Electronics Limited (BEL)
-- Managed Virtual Desktop Infrastructure (VDI) for enterprise users  
-- Installed and configured Windows & Linux systems  
-- Performed hardware diagnostics and OS troubleshooting  
-- Configured LAN, printers, scanners, and peripherals  
-- Provided remote and on-site technical support  
+### Key Activities
 
----
+- Windows & Ubuntu Installation
+- Virtual Machine Configuration
+- OS Recovery & Troubleshooting
+- TCP/IP, DNS & IP Configuration
+- Desktop Support Scenarios
+- Hardware & Software Troubleshooting
+- Practical IT Support Simulations
 
-## 🚀 Projects
-
-### 🔹 OldBook Exchange Platform (Dockerized Full Stack Project)
-🔗 https://github.com/maheshkrcs-dev/oldbook-docker
-
-✔ Full-stack web application for buying & selling books  
-✔ Containerized using Docker (Apache + PHP + MySQL)  
-✔ Implemented service communication using Docker Compose  
-✔ Performed database migration and volume mapping  
+💡 This lab is designed to simulate real-world enterprise IT support scenarios.
 
 ---
 
-## 🛠️ Technical Skills
+# 💼 Professional Experience
 
-### 💻 IT Support
-- Desktop Support  
-- System Troubleshooting  
-- Remote Support  
-- Hardware Troubleshooting  
+## 🏢 Neurealm Private Limited
+### Engineer – Infrastructure Services
+**July 2026 – Present**
 
-### 🖥️ Operating Systems
-- Windows  
-- Linux (Ubuntu)  
-
-### 🌐 Networking
-- LAN Setup  
-- IP Configuration  
-- Network Troubleshooting  
-
-### 🧰 Tools & Technologies
-- Active Directory (Basic)  
-- VDI  
-- Git & GitHub  
-- Docker (Basic)  
-- VS Code  
+- Providing onsite IT support at client location
+- Troubleshooting Windows laptops and desktops
+- Laptop deployment and device provisioning
+- Asset tagging and inventory management
+- Handling incident and service request tickets
+- Microsoft Outlook & Microsoft 365 support
+- Printer and peripheral troubleshooting
+- End-user support following SLA processes
+- Coordinating with users for issue resolution
 
 ---
 
+## 🏢 IIT Gandhinagar
 
-**Programming Languages:**  
-PHP, Python, C, JavaScript  
-
-**Frontend:**  
-HTML, CSS, Responsive Design  
-
-**Backend:**  
-Core PHP  
-
-**Database:**  
-MySQL (CRUD, relational design)  
-
-**DevOps & Tools:**  
-Docker, Docker Compose, Git, GitHub, phpMyAdmin  
-
-**Systems & IT:**  
-Linux, OS Installation, VDI, Hardware Troubleshooting  
-
-**AI/NLP:**  
-Data Annotation, Dataset Curation, Code-Mixed NLP  
+- Supported Linux-based environments
+- Assisted with enterprise system troubleshooting
+- Worked with large-scale data infrastructure
+- Collaborated with technical teams to ensure smooth operations
 
 ---
 
-## 📈 Currently Learning
+## 🏢 Bharat Electronics Limited (BEL)
 
-- Advanced IT Troubleshooting Scenarios  
-- Networking Fundamentals (TCP/IP, DNS, DHCP)  
-- Windows & Linux System Administration  
-
----
-
-
-## 🌐 Portfolio
-
-🔗 https://maheshkrcs-dev.github.io/
+- Managed Virtual Desktop Infrastructure (VDI)
+- Installed Windows & Linux Operating Systems
+- Hardware diagnostics and troubleshooting
+- LAN configuration and printer support
+- Remote and onsite technical support
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Projects
 
-📧 Email: maheshkr.cs@gmail.com  
-🔗 GitHub: https://github.com/maheshkrcs-dev  
-🔗 LinkedIn: https://www.linkedin.com/in/maheshkrcs
+## 📚 OldBook Exchange Platform
+
+🔗 Repository
+
+https://github.com/maheshkrcs-dev/oldbook-docker
+
+### Highlights
+
+- Dockerized Full Stack Web Application
+- Apache + PHP + MySQL
+- Docker Compose Networking
+- Database Migration
+- Volume Mapping
+- CRUD Operations
+- Responsive Design
 
 ---
 
-## ⚡ Fun Fact
+# 🛠 Technical Skills
 
-I enjoy solving real-world technical problems — from fixing system issues to managing IT environments 🚀---
+## 💻 IT Support
 
+- Desktop Support
+- End User Support
+- Incident Management
+- Service Request Handling
+- Remote Support
+- Hardware Troubleshooting
+- Software Troubleshooting
+- Laptop Deployment
+
+---
+
+## 🖥 Operating Systems
+
+- Windows 10
+- Windows 11
+- Ubuntu Linux
+
+---
+
+## 🌐 Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- LAN
+- VPN (Basic)
+- IP Configuration
+- Network Troubleshooting
+
+---
+
+## ☁ Microsoft Technologies
+
+- Microsoft 365
+- Outlook
+- Teams
+- OneDrive
+- Active Directory (Basic)
+- VDI
+
+---
+
+## 🧰 Tools
+
+- Git
+- GitHub
+- Docker
+- Docker Compose
+- VS Code
+- phpMyAdmin
+
+---
+
+## 💻 Programming
+
+- PHP
+- Python
+- JavaScript
+- C
+
+---
+
+## 🗄 Database
+
+- MySQL
+- CRUD Operations
+- Relational Database Design
+
+---
+
+# 📚 Currently Learning
+
+- Microsoft 365 Administration
+- Active Directory & Group Policy
+- Azure Fundamentals (AZ-900)
+- Windows Server Administration
+- Advanced Desktop Support
+- Networking (TCP/IP, DNS, DHCP)
+- PowerShell
+
+---
+
+# 🌐 Portfolio
+
+https://maheshkrcs-dev.github.io/
+
+---
+
+# 📫 Connect With Me
+
+📧 Email  
+**maheshkr.cs@gmail.com**
+
+🔗 GitHub  
+https://github.com/maheshkrcs-dev
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/maheshkrcs
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy solving real-world IT challenges—from troubleshooting desktop issues and deploying devices to supporting enterprise infrastructure. Every problem is an opportunity to learn something new. 🚀
