@@ -8,7 +8,7 @@ IT Infrastructure | Desktop Support | End-User Computing | Microsoft 365 | Windo
 
 # 👨‍💻 About Me
 
-I am an **Engineer – Infrastructure Services at Neurealm**, providing IT support and infrastructure services at a client location. I work on end-user computing, desktop support, laptop deployment, asset management, ticket resolution, and day-to-day IT operations.
+I am an **Engineer – Infrastructure Services at Neurealm**, providing IT support and infrastructure services. I work on end-user computing, desktop support, laptop deployment, asset management, ticket resolution, and day-to-day IT operations.
 
 With experience across enterprise environments, I enjoy troubleshooting technical issues, improving IT processes, and delivering reliable support to end users.
 
