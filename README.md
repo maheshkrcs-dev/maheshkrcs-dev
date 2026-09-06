@@ -62,7 +62,7 @@ https://github.com/maheshkrcs-dev/home-lab
 
 ---
 
-## 🏢 IIT Gandhinagar
+## 🏢 IIT Gandhinagar (IITGN)
 
 - Supported Linux-based environments
 - Assisted with enterprise system troubleshooting
